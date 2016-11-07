@@ -1,4 +1,4 @@
-# LaTeX Guide for None Engineers
+# LaTeX Guide for Non Engineers
 
 ## What this is about and isn't
 
